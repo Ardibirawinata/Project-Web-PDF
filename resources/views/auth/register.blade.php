@@ -17,7 +17,7 @@
 
 	<link rel="canonical" href="https://demo-basic.adminkit.io/pages-sign-up.html" />
 
-	<title>Sign Up | AdminKit Demo</title>
+	<title>Sign Up</title>
 
 	<link href="assets/css/app.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
@@ -33,7 +33,7 @@
 						<div class="text-center mt-4">
 							<h1 class="h2">Get started</h1>
 							<p class="lead">
-								Start creating the best possible user experience for you customers.
+								Please register to get more features.
 							</p>
 						</div>
 
